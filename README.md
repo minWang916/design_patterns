@@ -2,4 +2,4 @@
 
 This is a class assignment of the course Programming 2.
 
-Contributors: Do Minh Quang and Nguyen Minh Thuan.
+Contributors: Do Minh Quang (10421051) and Nguyen Minh Thuan (10421057).
