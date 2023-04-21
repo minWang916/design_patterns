@@ -10,5 +10,5 @@ Contributors: Do Minh Quang (10421051) and Nguyen Minh Thuan (10421057).
 <li>Factory pattern: https://github.com/minWang916/design_patterns/tree/main/Factory</li>
 <li>Singleton pattern: https://github.com/minWang916/design_patterns/tree/main/Singleton</li>
 <li>Command pattern: https://github.com/minWang916/design_patterns/tree/main/Command</li>
-<li>Template pattern: https://github.com/minWang916/design_patterns/tree/main/Command</li>
+<li>Template pattern: https://github.com/minWang916/design_patterns/tree/main/Template</li>
 </ol>                           
